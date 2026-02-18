@@ -45,4 +45,6 @@ int main() {
     cout << left_half;
     if (odd_count) cout << odd_char;
     cout << right_half << "\n";
+
+    return 0;
 }
